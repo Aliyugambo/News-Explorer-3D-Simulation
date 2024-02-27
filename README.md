@@ -1,2 +1,2 @@
-# News-Explorer-3D-Simulation
-Ar/VR Simulation Of the News HeadLines
+# News-Explorer-Voice-API
+News Explorer with speech Recognition.
