@@ -10,7 +10,7 @@ const config = require('./Config/config');
 // Express Server
 const app = express();
 
-
+ 
 // Middleware to parse JSON requests
 app.use(express.json());
 const port = config.PORT || 5000
